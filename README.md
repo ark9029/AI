@@ -1,2 +1,2 @@
 # AI
-AI Train
+AI Training
